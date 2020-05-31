@@ -7,6 +7,7 @@ tags:
   - python
   - new
   - game
+  - tag
 ---
 ![](/images/uploads/maxresdefault.jpg)
 
