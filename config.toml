@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://mystifying-knuth-2b63e0.netlify.app/"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
 theme = "liva-hugo"
