@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: msherbakov1/netlifycms
+  repo: msherbakov1/localdev
   branch: master
 
 local_backend: true
