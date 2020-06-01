@@ -24,3 +24,14 @@ collections:
       - {label: "Blog content", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true, multiple: true, field: {name: tag, label: Tag, widget: string}}
       
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "content/about/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "date"}
+          - {label: "Images", name: "image", widget: "image"}
+          - {label: "Intro", name: "body", widget: "markdown"}
